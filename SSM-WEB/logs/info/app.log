@@ -1,0 +1,6 @@
+2018-01-26 10:13:34 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+2018-01-26 10:13:36 CST INFO  org.hibernate.validator.internal.util.Version 30 <clinit> - HV000001: Hibernate Validator 5.2.4.Final
+2018-01-26 10:13:37 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} closed
+2018-01-26 10:15:02 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} inited
+2018-01-26 10:15:03 CST INFO  org.hibernate.validator.internal.util.Version 30 <clinit> - HV000001: Hibernate Validator 5.2.4.Final
+2018-01-26 10:15:04 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl 106 info - {dataSource-1} closed

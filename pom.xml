@@ -247,6 +247,13 @@
                 <version>1.11.1</version>
             </dependency>
 
+            <!-- redis客户端:Jedis -->
+            <dependency>
+                <groupId>redis.clients</groupId>
+                <artifactId>jedis</artifactId>
+                <version>2.7.3</version>
+            </dependency>
+
         </dependencies>
     </dependencyManagement>
 
